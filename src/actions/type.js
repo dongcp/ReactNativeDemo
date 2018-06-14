@@ -1,0 +1,1 @@
+export const UPDATE_LOCATION = 'update_location';
